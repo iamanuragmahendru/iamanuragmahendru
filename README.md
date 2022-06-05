@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamanuragmahendru
-<!-- - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning ReactJS and SpringBoot
+- 💞️ I’m looking to collaborate on interesting web applications
+- 📫 How to reach me iamanuragmahendru@gmail.com
 
 <!---
 iamanuragmahendru/iamanuragmahendru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
